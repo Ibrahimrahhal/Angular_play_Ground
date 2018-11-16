@@ -1,0 +1,23 @@
+nav{
+display: flex;
+/* padding:  0 10px; */
+font-size: 0.8rem;
+
+}
+
+.nav-element,.nav-element:link,.nav-element:visited {
+  color: #ffffff;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  font-family: Montserrat,sans-serif;
+  border-bottom:solid 1px darkgreen ;
+  transition: all 0.5s;
+  display: block;
+  text-decoration: none;
+}
+
+.nav-element:hover{
+border-bottom:solid 1px #ffffff ;
+
+
+}
