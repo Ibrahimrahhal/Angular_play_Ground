@@ -44,6 +44,7 @@
     "ts-node": "~5.0.1",
     "tslint": "~5.9.1",
     "typescript": "~2.7.2",
-    "word-wrap": "1.2.3"
+    "word-wrap": "1.2.3",
+    "rollup": "1.32.1"
   }
 }
